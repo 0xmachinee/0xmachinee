@@ -1,4 +1,4 @@
-<h1 align="center">C U R I O U S &nbsp; B Y &nbsp; D E F A U L T</h1>
+<h1 align="center">0 X M A C H I N E E</h1>
 
 <p align="center"><img src="https://img.shields.io/badge/ROOT_ACCESS-GRANTED-E50914?style=for-the-badge&labelColor=000000" alt="root access granted"></p>
 
