@@ -1,24 +1,13 @@
 <h1 align="center">C U R I O U S &nbsp; B Y &nbsp; D E F A U L T</h1>
 
-<p align="center"><code>[ ROOT ACCESS: GRANTED ]</code></p>
+<p align="center"><code>Build. Break. Secure.</code></p>
 
 ---
 
 ```
 $ whoami
-> shaul2000
-
-$ status
-> breaking things to understand them
-> building things to outsmart them
-
-$ cat /etc/mindset
-> if it exists, it can be explored.
+> 0xmachinee
 ```
-
----
-
-### `$ cat skills.txt`
 
 **Languages**
 
@@ -27,7 +16,7 @@ $ cat /etc/mindset
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks and tools**
+**Frameworks**
 
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -36,12 +25,5 @@ $ cat /etc/mindset
 
 ---
 
-### `$ ./contact.sh`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-X-USERNAME)
-
----
-
-<p align="center"><code>> connection closed. still running_</code></p>
