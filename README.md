@@ -1,5 +1,7 @@
 <h1 align="center">C U R I O U S &nbsp; B Y &nbsp; D E F A U L T</h1>
 
+<p align="center"><code>[ ROOT ACCESS: GRANTED ]</code></p>
+
 <p align="center"><code>Build. Break. Secure.</code></p>
 
 ---
@@ -27,3 +29,7 @@ $ whoami
 
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-X-USERNAME)
+
+---
+
+<p align="center"><code>> connection closed. still running_</code></p>
